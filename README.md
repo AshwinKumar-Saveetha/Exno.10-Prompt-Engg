@@ -54,25 +54,37 @@ To demonstrate how various prompting techniques (query decomposition, decision-m
 #### **First Draft (Simple Prompt):**
 
 * **Case Study:**
+  
   **Prompt:** "Write a case study on a successful fintech startup."
+  
   **Output:** General overview of a global fintech company.
+  
   **Link:** https://drive.google.com/file/d/1-rLnfxnjT09ebCHE_RC9SLJphrM4fV5Q/view?usp=sharing
 
 * **Sci-Fi Story:**
+  
   **Prompt:** "Write a sci-fi short story about a robot in the year 3025."
+  
   **Output:** Basic story of a robot navigating a futuristic city.
+  
   **Link:** https://drive.google.com/file/d/158oYl6t0JTR-fXBHfBCtJodc1dm9UI4v/view?usp=sharing
 
 #### **Final Draft (Refined Prompt):**
 
 * **Case Study:**
+  
   **Prompt:** "Act as a business analyst and write a formal case study on a Southeast Asian fintech startup. Describe their challenges, innovations, and impact. Include founder quotes, funding rounds, and future plans."
+  
   **Output:** Detailed, structured case study with relevant details.
+  
   **Link:** https://drive.google.com/file/d/1xzZbnnELtabhVW_GlwCgtC76Dxchj68n/view?usp=sharing
 
 * **Sci-Fi Story:**
+  
   **Prompt:** "As a sci-fi author, write a suspenseful short story about a robot in 3025 focusing on AI ethics and human emotions, with vivid tech descriptions and a plot twist."
+  
   **Output:** Engaging story with emotional depth and thematic focus.
+  
   **Link:** https://drive.google.com/file/d/162woXnYSktdvRe_H_W4o2KuSkRqQLapW/view?usp=sharing
 
 ### **Conclusion:**
