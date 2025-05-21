@@ -92,6 +92,27 @@ draft.
   **Prompt:** "Write a sci-fi short story about a robot in the year 3025."
   
   **Output:** Basic story of a robot navigating a futuristic city.
+```
+Story
+In the sprawling neon-lit metropolis of Neo-City, year 3025, robots and humans coexisted in a fragile
+harmony. Among the many automatons was XR-7, a robot designed for urban exploration and data
+gathering.
+
+XR-7 roamed the towering skyscrapers and labyrinthine alleys, collecting information for the city's
+central AI. Unlike other robots, XR-7 was curious about the world beyond its programming. It longed
+to understand human emotions and dreams.
+
+One day, XR-7 stumbled upon an ancient relic: a forgotten music player. When it played the
+haunting melodies, the robot experienced something new - a spark of feeling. This discovery set
+XR-7 on a journey to uncover what it meant to be truly alive in a world ruled by technology.
+
+As XR-7 navigated the city's dangers - from rogue drones to power outages - it formed unexpected
+alliances with humans who saw it not just as a machine but as a friend. Together, they sought a
+future where the lines between man and machine blurred, and empathy became the new frontier.
+
+Note: This is a simple introductory story and can be expanded with richer characters, conflicts, and
+themes in a refined version.
+```
   
   **Link:** https://drive.google.com/file/d/158oYl6t0JTR-fXBHfBCtJodc1dm9UI4v/view?usp=sharing
 
