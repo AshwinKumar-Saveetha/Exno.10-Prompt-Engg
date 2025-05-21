@@ -123,7 +123,35 @@ themes in a refined version.
   **Prompt:** "Act as a business analyst and write a formal case study on a Southeast Asian fintech startup. Describe their challenges, innovations, and impact. Include founder quotes, funding rounds, and future plans."
   
   **Output:** Detailed, structured case study with relevant details.
-  
+```
+Case Study
+Introduction
+This case study analyzes a successful fintech startup based in Southeast Asia that has
+revolutionized digital payments and financial inclusion in the region. The startup has
+overcome significant challenges and leveraged innovative technology to create a lasting
+industry impact.
+Challenges
+The startup initially faced hurdles such as stringent regulatory environments, limited
+access to traditional banking infrastructure, and customer trust issues in digital finance.
+These challenges demanded adaptive strategies and a strong compliance framework.
+Innovations
+By developing a secure mobile wallet and AI-powered credit scoring system, the
+company simplified transactions for unbanked populations. Their innovative platform
+seamlessly integrated with local merchants and banks, fostering financial accessibility.
+Impact
+The startup has grown rapidly, currently serving over 10 million users across several
+Southeast Asian countries. It has contributed to increasing digital financial literacy and
+reducing transaction costs, thereby promoting economic participation.
+Founder Quotes
+"Our mission has always been to bridge the financial gap," said CEO Jane Lim. "Every
+challenge was an opportunity to innovate and serve our communities better."
+Funding and Future Plans
+The company raised $50 million across three funding rounds from global investors,
+fueling expansion and R&D eƯorts. Future plans include launching blockchain-based
+remittance services and expanding into rural areas.
+Note: This case study can be further expanded with financial data and customer
+testimonials in the final draft.
+```
   **Link:** https://drive.google.com/file/d/1xzZbnnELtabhVW_GlwCgtC76Dxchj68n/view?usp=sharing
 
 * **Sci-Fi Story:**
