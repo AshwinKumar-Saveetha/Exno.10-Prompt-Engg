@@ -58,8 +58,8 @@ To demonstrate how various prompting techniques (query decomposition, decision-m
   **Prompt:** "Write a case study on a successful fintech startup."
   
   **Output:** General overview of a global fintech company.
-  ```
-  Introduction
+```
+Introduction
 This case study explores the journey of a successful fintech startup that has made significant
 impacts in the financial technology sector. The company has leveraged innovative technology to
 improve financial services and reach a global customer base.
@@ -83,7 +83,7 @@ leadership, and adaptability to the evolving financial landscape.
 
 Note: This is a general overview and can be expanded with specific data and examples in a refined
 draft.
-  ```
+```
   
   **Link:** https://drive.google.com/file/d/1-rLnfxnjT09ebCHE_RC9SLJphrM4fV5Q/view?usp=sharing
 
